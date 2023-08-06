@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning UI development.
 - 🤔 I’m looking for help with API.
 - 💬 Ask me about HTML, CSS, Bootstrap, Javascript, and any web development stuff.
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/gayathri-ramesh-0491381a3
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/gaya3ramesh/
 - 😄 Pronouns: She/Her
